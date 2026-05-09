@@ -1,0 +1,2 @@
+python-chess==1.10.0
+stockfish==16.1
